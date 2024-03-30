@@ -1,8 +1,6 @@
 [![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring%20boot&logoColor=white)](https://spring.io/)
-
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black)](https://www.mysql.com/)
-
 [![JPA](https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=BAAE85)](https://spring.io/projects/spring-data-jpa)
 [![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
@@ -22,4 +20,4 @@ public class BackendDeveloper {
 }
 ```
 # Resume
-[![resume-cover](https://github.com/snwlee/snwlee/assets/82517133/139a0f12-763b-4d77-b2ec-15d37e05e374 "박채훈 이력서")](https://docs.google.com/document/d/1OCqnyrkAlBqTIez6nRhUsk-65Z3cohfE2h74yyYY-RE/edit?usp=sharing)
+[![resume-cover]( https://github.com/xpmxf4/xpmxf4/blob/main/DALL%C2%B7E%202024-03-30%2017.00.53%20-%20Create%20an%20image%20representing%20a%20resume%2C%20ideally%20showcasing%20a%20modern%20and%20professional%20design.%20The%20resume%20should%20be%20laid%20out%20in%20an%20open%20portfolio%20or%20docu.webp "박채훈 이력서")](https://docs.google.com/document/d/1OCqnyrkAlBqTIez6nRhUsk-65Z3cohfE2h74yyYY-RE/edit?usp=sharing)
