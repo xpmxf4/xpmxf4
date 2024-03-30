@@ -20,4 +20,4 @@ public class BackendDeveloper {
 }
 ```
 # Resume
-[![resume-cover]( https://github.com/xpmxf4/xpmxf4/blob/main/DALL%C2%B7E%202024-03-30%2017.00.53%20-%20Create%20an%20image%20representing%20a%20resume%2C%20ideally%20showcasing%20a%20modern%20and%20professional%20design.%20The%20resume%20should%20be%20laid%20out%20in%20an%20open%20portfolio%20or%20docu.webp "박채훈 이력서")](https://docs.google.com/document/d/1OCqnyrkAlBqTIez6nRhUsk-65Z3cohfE2h74yyYY-RE/edit?usp=sharing)
+[![resume-cover](https://github.com/xpmxf4/xpmxf4/blob/main/resume.webp "박채훈 이력서")](https://docs.google.com/document/d/1OCqnyrkAlBqTIez6nRhUsk-65Z3cohfE2h74yyYY-RE/edit?usp=sharing)
