@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?text=어후 반갑습니다!&animation=fadeIn&type=waving&color=timeGradient&height=100"/>
+<img src="https://capsule-render.vercel.app/api?text=어후 반갑습니다!&animation=fadeIn&type=waving&color=timeGradient&height=100"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,8 @@ strengths:
     - "Adaptability (적응): 변화하는 환경에 능동적으로 대응하며, 유연한 문제 해결 방식을 제시합니다."
     - "Communication (커뮤니케이션): 명확하고 효과적인 커뮤니케이션으로 아이디어를 전달하고, 팀 내 소통을 원활하게 합니다."
     - "Empathy (공감): 타인의 감정을 이해하고 공감하여, 조화로운 팀 분위기를 조성합니다."
-  description: "갤럽 강점 검사(CliftonStrengths)는 전 세계의 유명 기업들이 직원들의 독특한 재능을 발견하고 최대한 활용하기 위해 사용하는 심리학 기반의 개인 강점 평가 도구입니다."
+  description: "갤럽 강점 검사(CliftonStrengths)는 전 세계의 유명 기업들이
+직원들의 독특한 재능을 발견하고 최대한 활용하기 위해 사용하는 심리학 기반의 개인 강점 평가 도구입니다."
 
 hobbies:
   - "헬스"
