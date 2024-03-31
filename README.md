@@ -65,7 +65,7 @@ hobbies:
 [![Corav's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpmxf4&hide=issues&show_icons=true&theme=transparent)](https://github.com/xpmxf4/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpmxf4&hide=javascript,css,typescript,python&langs_count=4&layout=donut)](https://github.com/xpmxf4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpmxf4&hide=javascript,css,typescript,python&langs_count=4&layout=compact)](https://github.com/xpmxf4/github-readme-stats)
 
 
 # Resume Linked Picture
