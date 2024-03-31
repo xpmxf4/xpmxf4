@@ -69,4 +69,4 @@ hobbies:
 
 
 # Resume Linked Picture
-[![resume-cover](https://github.com/xpmxf4/xpmxf4/blob/main/resume.webp "박채훈 이력서")](https://docs.google.com/document/d/1OCqnyrkAlBqTIez6nRhUsk-65Z3cohfE2h74yyYY-RE/edit?usp=sharing)
+[![resume-cover](https://github.com/xpmxf4/xpmxf4/blob/main/resume.webp "박채훈 이력서")](https://docs.google.com/document/d/1X1ep6MgnJkmbnT9r1RnpRRFX8ki3KPbujsOthPuz9zI/edit?usp=sharing)
