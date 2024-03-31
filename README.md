@@ -45,10 +45,11 @@ hobbies:
 ```
 
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+# Skills
 
 [![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring%20boot&logoColor=white)](https://spring.io/)
@@ -60,6 +61,12 @@ hobbies:
 [![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 [![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+
+[![Corav's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpmxf4&hide=issues&show_icons=true&theme=transparent)](https://github.com/xpmxf4/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpmxf4&hide=javascript,css,typescript,python&langs_count=4&layout=donut)](https://github.com/xpmxf4/github-readme-stats)
+
 
 # Resume Linked Picture
 [![resume-cover](https://github.com/xpmxf4/xpmxf4/blob/main/resume.webp "박채훈 이력서")](https://docs.google.com/document/d/1OCqnyrkAlBqTIez6nRhUsk-65Z3cohfE2h74yyYY-RE/edit?usp=sharing)
