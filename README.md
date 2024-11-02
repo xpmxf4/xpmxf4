@@ -69,5 +69,7 @@ hobbies:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpmxf4&hide=javascript,css,typescript,python&langs_count=4&layout=compact)](https://github.com/xpmxf4/github-readme-stats)
 
 
+<!--
 # Resume
 [![resume-cover](https://github.com/xpmxf4/xpmxf4/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%EC%97%AC%EA%B8%B0%EC%97%90%EC%9A%94.png "박채훈 이력서")](https://docs.google.com/document/d/1X1ep6MgnJkmbnT9r1RnpRRFX8ki3KPbujsOthPuz9zI/edit?usp=sharing)
+-->
