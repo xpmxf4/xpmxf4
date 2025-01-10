@@ -1,11 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?text=%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4%20%20%F0%9F%8E%B6&animation=fadeIn&type=waving&color=timeGradient&height=100" />
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/dRvEZLV0ORAmHT1L5u/giphy.gif?cid=82a1493b8bcs4rb43gjtn3b8ukzr5v0ixf5nqu6yadfdq2tp&ep=v1_gifs_trending&rid=giphy.gif&ct=g"/>
-</p>
-
 # About me
 ```yaml
 name: 박채훈
